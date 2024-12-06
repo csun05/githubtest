@@ -1,2 +1,2 @@
-# githubtest
-CIST2921: IT Analysis Design&amp;Proj Manage (21107)
+# hello-world
+This repository is for practicing the GitHub Flow
